@@ -10,7 +10,7 @@ Este código es un script de Python que utiliza la librería pyzipper para extra
 
 1. Clonar este repositorio:
 ```bash
-git clone https://github.com/brianrscode/tu-repositorio.git
+git clone https://github.com/brianrscode/python-zip-cracker.git
 ```
 2. Instalar los requerimientos:
 ```bash
